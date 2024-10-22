@@ -4,3 +4,4 @@ Blablabla
 # Contributors
 
 - Basile Marchand 😎 
+- Basile Fleury 😎
